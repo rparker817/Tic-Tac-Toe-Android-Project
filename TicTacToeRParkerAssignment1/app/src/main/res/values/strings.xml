@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToeRParkerAssignmet1</string>
+    <string name="tic_tac_toe">Tic Tac Toe!</string>
+    <string name="player_1_go">Player 1 Go</string>
+    <string name="game_board">Game Board</string>
+    <string name="next_player">Next Player</string>
+    <string name="reset_button">reset button</string>
+</resources>
